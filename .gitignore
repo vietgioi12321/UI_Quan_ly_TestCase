@@ -1,0 +1,4 @@
+node_modules/    # Không đẩy thư mục thư viện nặng
+.expo/           # Không đẩy file tạm của Expo
+dist/            # Không đẩy file build
+.env             # Không đẩy file chứa mật khẩu/token
